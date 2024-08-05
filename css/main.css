@@ -1,0 +1,26 @@
+@import url(./xl.css) screen and (min-width:1200px);
+@import url(./lg.css) screen and (min-width:992px) and (max-width:1200px);
+@import url(./md.css) screen and (min-width:768px) and (max-width:992px);
+@import url(./sm.css) screen and (min-width:540px) and (max-width:768px);
+@import url(./xs.css) screen and (max-width:540px
+);
+
+
+@font-face {
+  font-family: karim;
+  src: url(../font/NotoSans-VariableFont_wdth\,wght.ttf);
+}
+@font-face {
+    font-family: rahim;
+    src: url(../font/DancingScript-VariableFont_wght.ttf);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  list-style: none;
+  box-sizing: border-box;
+}
+
+ 
